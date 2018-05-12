@@ -1,0 +1,31 @@
+_repo: Those-Who-SmiledAnd-Eleven-Other-Stories_23993
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gibbon, Perceval
+    birthdate: 1879
+    deathdate: 1926
+    gutenberg_agent_id: '7708'
+    url: http://www.gutenberg.org/2009/agents/7708
+    wikipedia: http://en.wikipedia.org/wiki/Perceval_Gibbon
+description: ''
+gutenberg_issued: '2007-12-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23993'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Short stories'
+- !lcsh 'Fiction'
+tableOfContents: Those who smiled -- The Dago -- Wood-ladies -- A man before the mast
+  -- The girl -- The breadwinner -- "Plain German" -- Alms and the man -- The darkened
+  path -- Miss Pilgrim's progress -- The connoisseur -- The day of omens.
+title: Those Who Smiled, and Eleven Other Stories
+url: http://www.gutenberg.org/ebooks/23993
